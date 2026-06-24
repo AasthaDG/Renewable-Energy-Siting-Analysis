@@ -1,0 +1,3 @@
+Technology,Total_Candidate_Sites,High_Potential_Sites,Pct_High_Potential,RF_AUC_ROC,RF_F1_Score,Top_Feature
+Wind,"260,000","13,000",5.0%,1.0000,1.0000,protected_area
+Solar,"240,000","12,000",5.0%,0.9665,0.9114,resource_value
